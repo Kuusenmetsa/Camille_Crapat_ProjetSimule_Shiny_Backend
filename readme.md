@@ -1,6 +1,6 @@
-# Camille_Crapat_ProjetBase_ExpressJS
+# Camille_Crapat_ProjetSimule_Shiny_Backend
 
-Ce projet est une base de travail pour expressJS, afin d'éviter les tâches répétitives.
+Ce projet est une API créer pour le projet d'Openclassrooms dénommé Shiny
 
 ## Prérequis
 
@@ -8,14 +8,14 @@ Vous devez avoir installé git, nodeJS et npm au préalable.
 
 ## Installation
 
-Afin d'installer cette base de travail pour expressJS, utilisez les commandes ci-dessous :
+Afin d'installer cette API, utilisez les commandes ci-dessous :
 
 ```bash
-git clone https://github.com/Kuusenmetsa/Camille_Crapat_ProjetBase_ExpressJS
+git clone https://github.com/Kuusenmetsa/Camille_Crapat_ProjetSimule_Shiny_Backend.git
 ```
 
 ```bash
-cd Camille_Crapat_ProjetBase_ExpressJS
+cd Camille_Crapat_ProjetSimule_Shiny_Backend
 ```
 
 ```bash
